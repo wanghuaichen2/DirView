@@ -3,6 +3,7 @@
 ## 功能：
 - 选择文件夹，可以将文件夹中的目录以及文件展示出来，以树状结构。
 - 双击目录/文件，跳转到文件所在的位置。
-
+## 使用方法：
+下载可执行文件DirView.exe，双击直接使用。
 
 ![image](https://github.com/user-attachments/assets/3d9aa66f-e6e5-4e81-924c-cc00df994e5a)
